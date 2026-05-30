@@ -1,0 +1,16 @@
+[
+  {
+    "number": 12,
+    "title": "Regression in release checklist parser",
+    "labels": [{"name": "regression"}],
+    "updatedAt": "2026-05-10T09:00:00Z",
+    "url": "https://github.com/demo/project/issues/12"
+  },
+  {
+    "number": 15,
+    "title": "Document daily triage workflow",
+    "labels": [{"name": "documentation"}],
+    "updatedAt": "2026-05-29T12:00:00Z",
+    "url": "https://github.com/demo/project/issues/15"
+  }
+]
