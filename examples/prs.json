@@ -1,0 +1,18 @@
+[
+  {
+    "number": 21,
+    "title": "Add release notes template",
+    "labels": [{"name": "release"}],
+    "updatedAt": "2026-05-20T10:30:00Z",
+    "url": "https://github.com/demo/project/pull/21",
+    "isDraft": false
+  },
+  {
+    "number": 22,
+    "title": "Security hardening for file loader",
+    "labels": [{"name": "security"}],
+    "updatedAt": "2026-05-28T15:30:00Z",
+    "url": "https://github.com/demo/project/pull/22",
+    "isDraft": true
+  }
+]
